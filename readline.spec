@@ -1,7 +1,7 @@
 Summary: A library for editing typed command lines
 Name: readline
 Version: 6.3
-Release: 8%{?dist}
+Release: 9%{?dist}
 License: GPLv3+
 Group: System Environment/Libraries
 URL: http://cnswww.cns.cwru.edu/php/chet/readline/rltop.html
@@ -130,6 +130,9 @@ fi
 %{_libdir}/lib*.a
 
 %changelog
+* Wed Nov 30 2016 Jajauma's Packages <jajauma@yandex.ru> - 6.3-9
+- Rebiuld for altarch
+
 * Thu Feb 04 2016 Fedora Release Engineering <releng@fedoraproject.org> - 6.3-8
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_24_Mass_Rebuild
 
