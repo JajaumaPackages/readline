@@ -131,7 +131,7 @@ fi
 
 %changelog
 * Wed Nov 30 2016 Jajauma's Packages <jajauma@yandex.ru> - 6.3-9
-- Rebiuld for altarch
+- Rebuild for altarch
 
 * Thu Feb 04 2016 Fedora Release Engineering <releng@fedoraproject.org> - 6.3-8
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_24_Mass_Rebuild
